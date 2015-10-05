@@ -275,7 +275,7 @@ header .header-content .header-content-inner p {
     text-align: center;
     color: #fff;
     opacity: 0;
-    background: #ef23ef;
+    background: #777777;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
